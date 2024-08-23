@@ -1,3 +1,3 @@
 # My-Code
-This my first Git Repository
+This is my first Git Repository
 Author-Dipali Hadap
